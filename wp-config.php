@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'gatku_wordpress');
+define('DB_NAME', 'gatkuwordpress');
 
 /** MySQL database username */
 define('DB_USER', 'gatku_wordpress');
