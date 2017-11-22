@@ -23,10 +23,10 @@
 define('DB_NAME', 'gatkuwordpress');
 
 /** MySQL database username */
-define('DB_USER', 'gatku_wordpress');
+define('DB_USER', 'forge');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'G3dKD33Blpa6j1309KSRnIA');
+define('DB_PASSWORD', 'x4OLrKgU0DJ8HVOV8e4A');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
