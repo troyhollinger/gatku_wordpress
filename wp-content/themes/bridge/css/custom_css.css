@@ -1,0 +1,79 @@
+
+
+.header_bottom, .header_top, .fixed_top_header .bottom_header {
+    background-color: rgb(35, 35, 35) !important;
+}
+header.fixed.scrolled .header_bottom, header.fixed.scrolled .header_top, 
+header.fixed_hiding.scrolled .header_bottom, header.fixed_hiding.scrolled .header_top {
+    background-color: rgb(34, 34, 34) !important;
+}
+header .q_logo{
+	top:21px;
+}
+header .q_logo img{
+	top:0px;
+}
+.container.homepage{
+	padding-top:40px;
+}
+.latest-articles{
+	margin:0px;
+	padding:0 25px 0 0;
+}
+.big-article{
+	margin:0 0 40px;
+	padding:0px;
+}
+.homepage .big-article h3{
+    margin: 0 0 10px;
+    padding: 0px;
+    font-size: 26px;
+    line-height: 27px;
+    text-transform: capitalize;
+    letter-spacing: 0;
+}
+nav.main_menu>ul>li.active>a {
+color: white!important;}
+
+nav.main_menu>ul>li>a {
+color: #ffffff!important;}
+nav.main_menu.drop_down.right ul#menu-main-navigation li span {
+    color: #fff !important;
+}
+.latest_post_holder.image_in_box .latest_post_text {
+    padding: 0 0 0 60px;
+}
+ul.product_list_widget img {
+    height: 254px;
+    width: 254px;
+}
+nav.main_menu>ul>li>a {
+    padding: 0px 12px !important;
+    font-weight: 400 !important;
+    
+}
+nav.main_menu > ul > li > a{
+font-size: 28px !important;
+text-transform: capitalize;
+ line-height: 57px !important;
+font-family: "Helvetica Neue",HelveticaNeue,Helvetica-Neue,Helvetica,Helvetica,Arial,sans-serif;
+ letter-spacing: -1px;
+}
+.map1 img {
+    width: 30px !important;
+}
+.map2 {
+        padding: 0px !important;
+}
+span.footer_text {
+    font-size: 13px !important;
+}
+.column1.footer_col1 {
+    width: 30%;
+}
+.column2.footer_col2 {
+    width: 70%;
+}
+nav.main_menu.drop_down.right ul#menu-main-navigation li span:hover {
+      border-bottom: 2px solid #fff;
+}
