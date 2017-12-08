@@ -134,9 +134,9 @@ get_header(); ?>
             
 		</div><!-- .two_columns_75_25 -->
 	</div><!-- .container_inner -->
-<section class="new_section_class" style="padding: 130px;border: 1px solid black;height: 200px;background: #737373; background: url(/wp-content/uploads/2017/12/slide01.jpg);">
-				<div class="new_section"><h2 style="text-align: center;color: #ffffff;font-size: 80px; text-transform: initial; font-weight: 700;">Thank You for Visiting!</h2><br>
-					<h4 style="text-align: center;color: #fff; font-size:21px">We hope you enjoyed your virtual shopping<br> experience. Please let us know if we can<br> help you with anything else. </h4>
+<section class="new_section_class" style="padding:200px 0 60px 0;;border: 1px solid black;height: 315px;background-color: #737476; background: url(/wp-content/uploads/2017/12/Site_GATKU_Footer-Product.jpg);">
+				<div class="new_section"><h2 class="main_heading">Thank You for Visiting!</h2><br>
+					<h4 class="sub_text">We hope you enjoyed your virtual shopping experience.<br> Please let us know if we can help you with anything else. </h4>
 				</div>
 			</section>
             <div class="email_demo" style="background-color: #262626;border-bottom: 1px solid #fff;height: 55px;padding: 10px 0;background:#000;">
